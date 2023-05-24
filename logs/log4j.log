@@ -1,0 +1,85 @@
+2023-05-22 18:32:34 INFO  BaseClass1:13 - URL is opened
+2023-05-22 18:32:36 INFO  BaseClass1:19 - Entered username
+2023-05-22 18:32:36 INFO  BaseClass1:22 - Entered password
+2023-05-22 18:32:38 INFO  BaseClass1:28 - Login test passed
+2023-05-22 20:25:04 INFO  BaseClass1:13 - URL is opened
+2023-05-22 20:25:05 INFO  BaseClass1:19 - Entered username
+2023-05-22 20:25:05 INFO  BaseClass1:22 - Entered password
+2023-05-22 20:25:06 INFO  BaseClass1:28 - Login test passed
+2023-05-23 15:58:32 INFO  BaseClass1:13 - URL is opened
+2023-05-23 15:58:33 INFO  BaseClass1:19 - Entered username
+2023-05-23 15:58:33 INFO  BaseClass1:22 - Entered password
+2023-05-23 15:58:35 INFO  BaseClass1:28 - Login test passed
+2023-05-23 16:10:44 INFO  BaseClass1:13 - URL is opened
+2023-05-23 16:10:45 INFO  BaseClass1:19 - Entered username
+2023-05-23 16:10:46 INFO  BaseClass1:22 - Entered password
+2023-05-23 16:10:47 INFO  BaseClass1:28 - Login test passed
+2023-05-23 16:24:13 INFO  BaseClass1:13 - URL is opened
+2023-05-23 16:24:14 INFO  BaseClass1:19 - Entered username
+2023-05-23 16:24:15 INFO  BaseClass1:22 - Entered password
+2023-05-23 16:24:16 INFO  BaseClass1:28 - Login test passed
+2023-05-23 17:04:32 INFO  BaseClass1:13 - URL is opened
+2023-05-23 17:04:33 INFO  BaseClass1:19 - Entered username
+2023-05-23 17:04:34 INFO  BaseClass1:22 - Entered password
+2023-05-23 17:04:35 INFO  BaseClass1:28 - Login test passed
+2023-05-23 17:08:01 INFO  BaseClass1:15 - URL is opened
+2023-05-23 17:08:03 INFO  BaseClass1:21 - Entered username
+2023-05-23 17:08:03 INFO  BaseClass1:24 - Entered password
+2023-05-23 17:08:06 INFO  BaseClass1:31 - Login test passed
+2023-05-23 17:13:14 INFO  BaseClass1:15 - URL is opened
+2023-05-23 17:13:15 INFO  BaseClass1:21 - Entered username
+2023-05-23 17:13:16 INFO  BaseClass1:24 - Entered password
+2023-05-23 17:13:18 INFO  BaseClass1:31 - Login test passed
+2023-05-23 20:09:47 INFO  BaseClass1:15 - URL is opened
+2023-05-23 20:09:47 INFO  BaseClass1:21 - Entered username
+2023-05-23 20:09:48 INFO  BaseClass1:24 - Entered password
+2023-05-23 20:09:51 INFO  BaseClass1:31 - Login test passed
+2023-05-23 20:26:22 INFO  BaseClass1:18 - username entered
+2023-05-23 20:26:23 INFO  BaseClass1:20 - password entered
+2023-05-23 20:26:29 INFO  BaseClass1:34 - login passed
+2023-05-23 20:26:42 INFO  BaseClass1:18 - username entered
+2023-05-23 20:26:43 INFO  BaseClass1:20 - password entered
+2023-05-23 20:26:50 INFO  BaseClass1:18 - username entered
+2023-05-23 20:26:51 INFO  BaseClass1:20 - password entered
+2023-05-23 20:26:58 INFO  BaseClass1:18 - username entered
+2023-05-23 20:26:58 INFO  BaseClass1:20 - password entered
+2023-05-23 20:30:17 INFO  BaseClass1:18 - username entered
+2023-05-23 20:30:17 INFO  BaseClass1:20 - password entered
+2023-05-23 20:30:22 INFO  BaseClass1:34 - login passed
+2023-05-23 20:30:30 INFO  BaseClass1:18 - username entered
+2023-05-23 20:30:30 INFO  BaseClass1:20 - password entered
+2023-05-23 20:30:42 INFO  BaseClass1:18 - username entered
+2023-05-23 20:30:44 INFO  BaseClass1:20 - password entered
+2023-05-23 20:30:51 INFO  BaseClass1:18 - username entered
+2023-05-23 20:30:51 INFO  BaseClass1:20 - password entered
+2023-05-23 20:34:55 INFO  BaseClass1:18 - username entered
+2023-05-23 20:34:56 INFO  BaseClass1:20 - password entered
+2023-05-23 20:35:00 INFO  BaseClass1:35 - login passed
+2023-05-23 20:35:09 INFO  BaseClass1:18 - username entered
+2023-05-23 20:35:09 INFO  BaseClass1:20 - password entered
+2023-05-23 20:35:18 INFO  BaseClass1:18 - username entered
+2023-05-23 20:35:18 INFO  BaseClass1:20 - password entered
+2023-05-23 20:35:24 INFO  BaseClass1:18 - username entered
+2023-05-23 20:35:24 INFO  BaseClass1:20 - password entered
+2023-05-23 20:40:03 INFO  BaseClass1:18 - username entered
+2023-05-23 20:40:04 INFO  BaseClass1:20 - password entered
+2023-05-23 20:40:08 INFO  BaseClass1:35 - login passed
+2023-05-23 20:40:21 INFO  BaseClass1:18 - username entered
+2023-05-23 20:40:21 INFO  BaseClass1:20 - password entered
+2023-05-23 20:40:30 INFO  BaseClass1:18 - username entered
+2023-05-23 20:40:30 INFO  BaseClass1:20 - password entered
+2023-05-23 20:40:37 INFO  BaseClass1:18 - username entered
+2023-05-23 20:40:38 INFO  BaseClass1:20 - password entered
+2023-05-23 20:42:56 INFO  BaseClass1:16 - URL is opened
+2023-05-23 20:42:57 INFO  BaseClass1:22 - Entered username
+2023-05-23 20:42:58 INFO  BaseClass1:25 - Entered password
+2023-05-23 20:43:00 INFO  BaseClass1:32 - Login test passed
+2023-05-23 20:47:35 INFO  BaseClass1:18 - username entered
+2023-05-23 20:47:35 INFO  BaseClass1:20 - password entered
+2023-05-23 20:47:39 INFO  BaseClass1:37 - login passed
+2023-05-23 20:47:48 INFO  BaseClass1:18 - username entered
+2023-05-23 20:47:48 INFO  BaseClass1:20 - password entered
+2023-05-23 20:47:59 INFO  BaseClass1:18 - username entered
+2023-05-23 20:47:59 INFO  BaseClass1:20 - password entered
+2023-05-23 20:48:08 INFO  BaseClass1:18 - username entered
+2023-05-23 20:48:08 INFO  BaseClass1:20 - password entered

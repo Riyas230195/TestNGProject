@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="org.utility.Reporting"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="org.testcases.TC_LoginTest_DDT_002">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="loginDDT" invocation-numbers="1 2 3"/>
+        </methods>
+      </class> <!-- org.testcases.TC_LoginTest_DDT_002 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
